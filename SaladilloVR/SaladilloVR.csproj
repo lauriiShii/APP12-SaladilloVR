@@ -349,10 +349,12 @@
     <Compile Include="Assets\Scripts\ButtonClick.cs" />
     <Compile Include="Assets\Scripts\ButtonGazeClick.cs" />
     <Compile Include="Assets\Scripts\ClearScript.cs" />
+    <Compile Include="Assets\Scripts\ClientButtonScript.cs" />
     <Compile Include="Assets\Scripts\ConfigurationText.cs" />
     <Compile Include="Assets\Scripts\CustomPointerTimer.cs" />
     <Compile Include="Assets\Scripts\DeleteScript.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\LoadButtonScript.cs" />
     <Compile Include="Assets\Scripts\MoveJoestick.cs" />
     <Compile Include="Assets\Scripts\MovementDisc.cs" />
     <Compile Include="Assets\Scripts\PlayAnimator.cs" />

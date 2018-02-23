@@ -17,5 +17,7 @@ public static class GameManager {
     public const string WEB_API_CHECK_CONECTIVITY = "http://{0}/SaladilloVR/api/SaladilloVR/CheckConnectivity";
     // Constante con la URL del metodo de la webAPI para obtener la lista de clientes
     public const string WEB_API_GET_CLIENTS = "http://{0}/SaladilloVR/api/SaladilloVR/GetClients";
+    // Constante con la URL del metodo de la webAPI que guarda la informacion de un cliente
+    public const string WEB_API_LOAD_CLIENT = "http://{0}/SaladilloVR/api/SaladilloVR/LoadClient";
     #endregion
 }
